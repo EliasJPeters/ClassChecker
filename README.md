@@ -1,7 +1,8 @@
 # ClassChecker
 
 YOU MUST HAVE THE FIREFOX BROWSER
-  This was made using Firefox. If Firefox is not installed, the program will not work.
+
+If you do not have Firefox, the program will not work!
 
 For USF Students. Attempts to register for any CRN given. This is useful for classes that have no waitlist.
 Users are to input their USF Email, Password, and CRN of the class they would like to register for. 
