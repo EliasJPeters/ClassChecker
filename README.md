@@ -1,5 +1,9 @@
 # ClassChecker
 
+##########
+DO NOT USE. NEW UPDATED PROGRAM IN PROCESS TO REPLACE COURSICLE FOR USF STUDENTS.
+##########
+
 YOU MUST HAVE THE FIREFOX BROWSER
 
 If you do not have Firefox, the program will not work!
